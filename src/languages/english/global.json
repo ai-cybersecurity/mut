@@ -1,0 +1,44 @@
+{
+    "navbar": {
+        "home": "Home",
+        "projects": "Projects",
+        "sendEmail": "Send Email",
+        "languages": "Languages"
+    },
+    "home": {
+        "description": "Engage in thrilling quizzes and competitions to fully immerse yourself in the atmosphere of cutting-edge technologies.",
+        "skills": "Agenda"
+    },
+    "footer": "Thank you for your active participation! May your talents flourish, and success accompany you every step of the way.",
+    "detail-button": "Details",
+    "monday": {
+        "description1": "Welcome to AI & Cybersecurity Week! Join us in exploring the latest in artificial intelligence and cybersecurity. Dive into cutting-edge tech, discuss threat detection, and strengthen your digital defense. Let's build a secure future together! ",
+        "description2": "Discover the harmony of music and technology at the festival within the framework of the Artificial Intelligence and Cybersecurity Week! Immerse yourself in the energy of live performances, relish innovative sounds, and explore the symbiosis of music and technological inspiration. Join us at this unique intersection of art and innovation!",
+        "description3": "Embark on an adventure at our event featuring logical and dynamic games! Engage your mind with thought-provoking challenges and experience the thrill of high-energy gameplay. Join us for a day of excitement and strategic fun, where logic meets dynamism in the world of gaming!"
+    },
+    "tuesday": {
+        "description1": "Join our computer assembly competition! Participation is open to individuals only, and the contest will take place in the foyer on the third floor. To participate, please approach Mr. Annamyrad Gyllychev in his office, Room 2324. Successfully assemble your computer and showcase your skills to impress!",
+        "description2": "Participation is limited to individuals only, no teams. The C++ programming competition will be held in the foyer on the 3rd floor. To join, please contact Merdan at (+99363672050). The contest will take place in the laboratory on the 3rd floor.",
+        "description3": "Assemble a team of three individuals and join the competition taking place in the foyer on the third floor. To participate, contact Enаr Populovа in Room 2323. Your challenge is to connect to a router and get a pre-built website up and running successfully."
+    },
+    "wednesday": {
+        "description1": "Exclusive to students from the AI and Cyber department, join our thrilling Brain Ring in teams of four! Get ready for an exciting intellectual showdown where each team can showcase their knowledge, strategic thinking, and teamwork skills. Even if you're not participating, come to observe and support these mental battles! Together, we'll create an exciting event filled with intellectual challenges and a friendly atmosphere. All are welcome – come and unlock your potential!",
+        "description2": "Elevate your gaming skills to a new level! Join the 1v1 showdown in Mortal Kombat and PES 2023 on PlayStation. The event will take place in rooms 2321 and 2320 on the third floor. Get ready for exciting battles and competitions in the world of virtual adventures!",
+        "description3": "Welcome to the Treasure Quest competition! Grab your encrypted map and embark on an exciting adventure! Utilize your cryptography skills to decipher the map and successfully navigate through 5 stages. Spaces are strictly limited, with each group restricted to only 2 participants. Get ready for an exhilarating challenge and a treasure hunt! The journey begins on the 3rd floor in the foyer. Teams should approach Enar Populova in Room 2323."
+    },
+    "thursday": {
+        "description1": "Participate in a chess competition where a default position is set, allowing for a checkmate in 3 moves! Your challenge is to conclude the game within the same 3 moves. The event will take place on the 3rd floor in the foyer. Participants are required to approach Enar Populova in Room 2323. We invite all chess enthusiasts to join this engaging tournament!",
+        "description2": "PUBG Mobile competition is now open for teams of 4! The lobby is ready to accommodate participants, and the competition will span over 3 days. The first 2 days will consist of elimination rounds, leading up to the final showdown on the 3rd day. To register for the competition, contact Dovlet at (+99364600382). Registration deadline is Tuesday. All details will be provided by Dovlet. Get ready for intense battles, and may the best team win!",
+        "description3": "We have a unique opportunity to create a poster dedicated to artificial intelligence and cybersecurity. The deadline is this Thursday. Please submit your works to Yoldashbay Kurambayev in Room 2319. The poster size should be 120x80. Let's collaboratively craft a vibrant and informative piece of art, reflecting the significance of AI and cybersecurity. We look forward to receiving your creative ideas!"
+    },
+    "friday": {
+        "description1": "Brain Ring 2.0 - the continuation of the first game, but this time it's the grand finale! Get ready for new mental challenges, strategic decisions, and thrilling moments. Mind-bending questions and intellectual battles await you. Showcase your knowledge, unleash your creativity, and level up your brain in the ultimate showdown! We invite everyone to the grand finale of Brain Ring 2.0!",
+        "description2": "",
+        "description3": "Join the book reading competition of 'Fahrenheit 451'! Get ready for questions and answers, and the one who guesses the most will emerge as the winner. Participants, gather in the foyer on the 3rd floor, from where you'll be guided to the auditorium. For additional information, please contact Ahmedov Khan at +99364889976. Immerse yourself in the world of literature and showcase your knowledge!"
+    },
+    "saturday": {
+        "description1": "",
+        "description2": "",
+        "description3": ""
+    }
+}

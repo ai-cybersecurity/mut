@@ -1,0 +1,139 @@
+
+/* about section */
+.about {
+    background-color: #21325e;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about--title {
+    margin: 0;
+    color: goldenrod;
+    font-size: 3.7rem;
+}
+
+.about--subtitle {
+    width: 30%;
+    min-width: 500px;
+    color: white;
+    text-align: center;
+    font-size: 1.7rem;
+    margin: 25px 0;
+    font-weight: 400;
+}
+
+.about--icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.icon:hover {
+    scale: 1.25;
+}
+
+.arrow-abs {
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+    background-color: #21325e; 
+    cursor: pointer;
+    z-index: 1;
+}
+
+.arrow-abs:hover {
+    scale: 1.2;
+}
+/* ---------------- */
+
+/* skills section */
+.skills {
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    color: #21325e;
+    padding-bottom: 35px;
+}
+.skills--title {
+    margin: 0 auto;
+    padding: 60px 0 10px 0;
+    font-size: 4rem;
+}
+.agenda-subtitle {
+    text-align: center;
+
+}
+.events-wrapper {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+/* --------------- */
+
+
+/* responsive design */
+@media screen and (max-width: 655px) {
+    .about--title {
+        font-size: 3.5rem;
+    }
+    .events-wrapper {
+        width: 95%;
+    }
+}
+@media screen and (max-width: 540px) {
+    .about--title {
+        font-size: 2.5rem;
+    }
+    .about--subtitle {
+        width: 90%;
+        min-width: 0;
+        font-size: 1.4rem;
+    }
+    .icon:hover {
+        scale: 1;
+    }
+    .arrow-abs:hover {
+        scale: 1;
+    }
+    .arrow-abs {
+        right: 30px;
+    }
+    .skills--title {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .about--title {
+        font-size: 2.8rem;
+    }
+    .about--subtitle {
+        width: 90%;
+        min-width: 0;
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .skills--title {
+        font-size: 1.9rem;
+    }
+}
+
+@media screen and (max-width: 655px) {
+    .about--title {
+        font-size: 1.7rem;
+    }
+}

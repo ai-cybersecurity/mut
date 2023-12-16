@@ -1,0 +1,17 @@
+.day-main {
+    padding-top: 85px;
+    min-height: calc(100vh - 65px);
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.day-title {
+    text-align: center;
+    color: #21325e;
+}
+
+.vertical-timeline-element-date {
+    font-size: 2rem;
+    color: #21325e;
+}
+  

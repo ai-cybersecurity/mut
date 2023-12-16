@@ -1,0 +1,28 @@
+.navbar {
+    position: fixed;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #21325e;
+    z-index: 2;
+}
+
+.navbar--wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.languages--button {
+    background-color: transparent;
+    color: white;
+    margin-right: 30px;
+}
+
+.navbar--initials {
+    color: goldenrod;
+    margin: 0 20px;
+    font-size: 1.7rem;
+    cursor: pointer;
+}

@@ -1,0 +1,90 @@
+.book-list {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.book-image {
+    width: 200;
+    height: 200;
+    object-fit: cover;
+}
+
+.event-title {
+    color: #21325e;
+}
+
+.event-subtitle {
+    color: #21325e;
+}
+
+.event-button {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+    padding: 8px 0;
+    font-size: 1rem;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+}
+
+.event-button:hover {
+    scale: 1.05;
+}
+.event-button:active {
+    scale: 0.95;
+}
+
+
+/* Responsive design */
+@media screen and (max-width: 595px) {
+    .book-list {
+        width: 95%;
+    }
+    .event-title {
+        font-size: 0.9rem;
+    }
+    .bookcard-main {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .book-list {
+        width: 100%;
+    }
+    .bookcard-main {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .book-list {
+        width: 95%;
+    }
+    .bookcard-main {
+        width: 200px;
+    }
+    .bookcard-body h2 {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 347px) {
+    .book-list {
+        width: 95%;
+    }
+    .bookcard-main {
+        width: 200px;
+    }
+    .bookcard-body h2 {
+        font-size: 1rem;
+    }
+}
